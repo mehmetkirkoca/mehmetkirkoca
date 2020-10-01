@@ -1,16 +1,21 @@
-### Hi there 👋
+Php Back Web End Developer
 
-<!--
-**mehmetkirkoca/mehmetkirkoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can reach me on
 
-Here are some ideas to get you started:
+<a href="https://www.codewars.com/users/mehmetkirkoca">
+<img style="height:35px;width:35px;margin:2px" src="icons/codewar.png"></img>
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://www.linkedin.com/in/mehmetkirkoca/">
+<img style="height:35px;width:35px;margin:2px" src="icons/linkedin.svg"></img>
+</a>
+
+<a href="https://www.facebook.com/mehmet.kirkoca">
+<img style="height:35px;width:35px;margin:2px" src="icons/facebook.svg"></img>
+</a>
+
+<a href="https://twitter.com/mehmetkirkoca">
+<img style="height:35px;width:35px;margin:2px" src="icons/twitter.svg"></img>
+</a>
+
+
