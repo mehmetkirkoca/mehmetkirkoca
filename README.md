@@ -14,7 +14,7 @@ You can reach me on
 <img height="35" width="35" src="icons/facebook.svg"></img>
 </a>
 
-<a href="https://twitter.com/mehmetkirkoca">
+<a href="https://twitter.com/devMkir">
 <img height="35" width="35" src="icons/twitter.svg"></img>
 </a>
 
