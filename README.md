@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 -------------------------------------------------
 
-As an experienced software developer, I am good at PHP and MySQL, as well as Node.js. My expertise extends to other popular technologies such as Redis, and MongoDB. I have a proven track record of developing successful web-based applications using a range of languages and frameworks, including PHP, Laravel, Vue.js, JavaScript, and jQuery. I have also worked extensively with RESTful APIs, JSON, XML, and SOAP. The Laravel framework is my go-to platform. In my development process, I utilize Ubuntu as my operating system and GIT for version control.
+I have experience working with PHP, MySQL, and Node.js. As a full-stack software developer, I have worked extensively with RESTful APIs, JSON, XML, and SOAP. Now, I am open to full stack project contributions and welcome any suggestions and opinions.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mehmet\_kirkoca@hotmail.com](mailto:mehmet_kirkoca@hotmail.com)
