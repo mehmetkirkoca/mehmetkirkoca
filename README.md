@@ -8,9 +8,7 @@ I have experience working with PHP, MySQL, and Node.js. As a full-stack software
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mehmet\_kirkoca@hotmail.com](mailto:mehmet_kirkoca@hotmail.com)
-* 🧠  I'm learning Next.js | Unit testing | e2e testing
-* 🤝  I'm open to collaborating on Finance tools | Social Media | Web3 | Helping people
-
+  
 <a href="https://www.github.com/mehmetkirkoca" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/mehmetkirkoca?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
