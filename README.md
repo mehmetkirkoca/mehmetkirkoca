@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Web Developer
 -------------------------------------------------
 
-I have experience working with PHP, MySQL, and Node.js. As a full-stack software developer, I have worked extensively with RESTful APIs, JSON, XML, and SOAP. Now, I am open to full stack project contributions and welcome any suggestions and opinions.
+I have experience working with PHP, MySQL, and Node.js. As a full-stack software developer. I am open to full stack project contributions and welcome any suggestions and opinions.
 
 * 🌍  I'm based in Turkey
 * ✉️  You can contact me at [mehmet\_kirkoca@hotmail.com](mailto:mehmet_kirkoca@hotmail.com)
